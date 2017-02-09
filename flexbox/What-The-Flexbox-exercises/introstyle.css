@@ -29,12 +29,12 @@ input[type=reset],input[type=submit]{-webkit-appearance:button;cursor:pointer;}b
 
 .container {
   display: flex;
+  border:  10px solid mistyrose;
+  height: 100vh;
+  align-items: flex-end;
 }
 
-.box {
-  flex: 1;
-  justify-content: center;
-}
+
 
 
 
